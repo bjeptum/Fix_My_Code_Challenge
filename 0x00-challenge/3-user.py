@@ -66,7 +66,7 @@ if __name__ == '__main__':
         print("New User should have an id")
 
     user_2 = User()
-    if user_1.id i != user_2.id:
+    if user_1.id != user_2.id:
         print("User.id should be unique")
 
     u_pwd = "myPassword"
